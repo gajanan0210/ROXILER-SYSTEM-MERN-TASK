@@ -13,7 +13,7 @@ This project is an Express and React-based web application for managing and visu
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Technologies Used](#technologies-used)
-- [License](#license)
+
 
 ## Features
 
